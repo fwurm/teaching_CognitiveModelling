@@ -8,7 +8,6 @@
 #!foo.html
 ## Ignore objects and archives.
 #*.[oa]
-CogMod22_bandit_solution.ipynb
 /older notebooks
 /CM-fall2022
 /Model-free_Model-based_Workshop
