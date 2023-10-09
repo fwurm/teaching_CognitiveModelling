@@ -13,7 +13,7 @@ We will use Pyhon 3 and Jupyter Notebooks during the workgroups. To get everythi
 You can also use Google Colab to access and run the Jupyter Notebooks without downloading anything. BUT make sure to save your progress!
 
 
-** Workgroups**
+**Workgroups**
 
 1. During the workgroups you will have time to work on the challenges and questions of the jupyter notebook (https://github.com/fwurm/teaching_CognitiveModelling/blob/main/CogMod23_bandit_student.ipynb). Make sure to open the "student" notebook. The notebook roughly follows the first part of the lecture.
 2. Once you have finished the challenges and questions, you can open the "solution" notebook (https://github.com/fwurm/teaching_CognitiveModelling/blob/main/CogMod23_bandit_solution.ipynb)and check if your answers were correct
