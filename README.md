@@ -1,4 +1,4 @@
-# Material for the course "Cognitive modelling: how to build a brain"
+# Material for the course "Cognitive modelling: how to build a brain" - Reinforcement learning
 
 **Instructor**: [Franz Wurm](https://www.universiteitleiden.nl/en/staffmembers/franz-wurm#tab-1)
 
