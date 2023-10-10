@@ -16,7 +16,7 @@ You can also use Google Colab to access and run the Jupyter Notebooks without do
 **Workgroups**
 
 1. During the workgroups you will have time to work on the challenges and questions of the jupyter notebook (https://github.com/fwurm/teaching_CognitiveModelling/blob/main/CogMod23_bandit_student.ipynb). Make sure to open the "student" notebook. The notebook roughly follows the first part of the lecture.
-2. Once you have finished the challenges and questions, you can open the "solution" notebook (https://github.com/fwurm/teaching_CognitiveModelling/blob/main/CogMod23_bandit_solution.ipynb)and check if your answers were correct
+2. Once you have finished the challenges and questions, you can open the "solution" notebook (https://github.com/fwurm/teaching_CognitiveModelling/blob/main/CogMod23_bandit_solution.ipynb) and check if your answers were correct
 3. In the "solution" notebook you will find the three assignments. Make sure to reach at least 50 points (of 100).
 
 Note that these are suggestions. If you have another way of running/editing a Jupyer Notebook, you are more than welcome to use that. Make sure however that you do run it in a way that, in the end, you can save your Jupyter notebook.
